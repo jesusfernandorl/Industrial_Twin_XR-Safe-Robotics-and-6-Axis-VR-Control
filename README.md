@@ -33,7 +33,21 @@ IEC 61131-3 (Controladores Programables): Uso de lógica de enclavamiento para p
 
 Ergonomía UX/UI: Retroalimentación multimodal (Visual, Auditiva y Desplazamiento físico) para reducir la carga cognitiva del operador.
 
-**Actualizacion respecto al Avanze**............
+## 📖 Documentación Detallada (Notion)
+
+Para un análisis más profundo sobre la metodología de investigación, bitácoras de desarrollo y gestión de activos, puedes consultar mis espacios de trabajo en Notion:
+
+* [Bitácora de Desarrollo y Clases](LINK_A_NOTION) - Documentacion de cursos impartidos y Feedbacks
+* [Especificaciones Técnicas y Diseño](LINK_A_NOTION) - Repositorio de Informacion
+* [Gestión de Proyecto (Uso de VR)](LINK_A_NOTION) - Organización de tareas y recursos.
+
+## Roadmap / Hoja de Ruta
+- [x] **Phase 1: Foundations** - Basic Axis 2 movement and XR Input mapping.
+- [x] **Phase 2: Industrial Safety** - Implementation of ISO 10218 limits and Interlock logic.
+- [x] **Phase 3: Multimodal Feedback** - Physical button displacement and 3D Audio.
+- [ ] **Phase 4: Full Kinematics** - Expansion to 3-axis and 6-axis control (In Progress).
+- [ ] **Phase 5: AI Assistance** - Integration of AI-driven guidance for new operators.
+- [ ] **Phase 6: Connectivity** - Digital Twin synchronization with real PLC (Future).
 
 ## Nivel: Básico (Realizado)
 **Concepto:**  Interacción Directa.
